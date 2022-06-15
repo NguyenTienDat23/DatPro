@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html ng-app="weatherApp">
+    <head>
+        <title>Weather Example AngularJS</title>
+        <script src="https://api.openweathermap.org/data/2.5/weather?q=Hanoi&appid=c5fa5112984ef1d54f8eb90a645bba36&units=metric"></script>
+        <script src="index.js"></script>
+    </head>
+    <body>
+        <div ng-controller="WeatherCtrl">
+            <h2>Hanoi,Vietnam</h2>
+            <div style="float: left">img ng-src="{{img_url}}"></div>
+            <h3>Current :{{ curren | number: 1}} *C</h3>
+            min: {{ temp_min | number: 1}} *C,max: {{temp_max |bumber:1 }} *C.
+            <h3>Wind: {{wind_speed}} km/h</h3>
+        </div>
+    </body>
+</html>
