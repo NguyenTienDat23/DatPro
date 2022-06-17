@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="Rule.css"?>
+<books>
+    <heading>Welcome To CodeLean.vn</heading>
+    <book>
+        <title>Title-: Web Programming</title>
+        <authur>Authur-: ThiDK</authur>
+        <publisher>Publisher-: Wiley</publisher>
+        <edition>Edition-: 3</edition>
+        <pirce>Price-: 300</pirce>vn
+    </book>
+    <book>
+        <title>Title-: Internet world-wide-web</title>
+        <authur>Authur-: Dang Kim Thi</authur>
+        <publisher>Publisher-: Wiley</publisher>
+        <edition>Edition-: 3</edition>
+        <pirce>Price-: 400</pirce>
+    </book>
+    <book>
+        <title>Title-: Computer Networks</title>
+        <authur>Authur-: Bill</authur>
+        <publisher>Publisher-: Mc Graw Hill</publisher>
+        <edition>Edition-: 5</edition>
+        <pirce>Price-: 700</pirce>
+    </book>
+    <book>
+        <title>Title-: DBMS Concepts</title>
+        <authur>Authur-: Gates</authur>
+        <publisher>Publisher-: Oxford</publisher>
+        <edition>Edition-: 5</edition>
+        <pirce>Price-: 600</pirce>
+    </book>
+    <book>
+        <title>Title-: Linux Programming</title>
+        <authur>Authur-: Steve Jobs</authur>
+        <publisher>Publisher-: Wiley</publisher>
+        <edition>Edition-: 8</edition>
+        <pirce>Price-: 300</pirce>
+    </book>
+</books>
